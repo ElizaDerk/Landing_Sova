@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Landing_Sova.git/static/css/main.d4c99c8a.css",
+    "main.js": "/Landing_Sova.git/static/js/main.719c9f37.js",
+    "static/media/Image.svg": "/Landing_Sova.git/static/media/Image.b3445ed91615b1f3a9ad.svg",
+    "static/media/f2.png": "/Landing_Sova.git/static/media/f2.835973593b07b3edbbfd.png",
+    "static/media/logo1.png": "/Landing_Sova.git/static/media/logo1.10d0d91f3bb54588c91e.png",
+    "static/media/next.svg": "/Landing_Sova.git/static/media/next.f668f62f722663e33a7b38b2c9f172ba.svg",
+    "static/media/briefcase.svg": "/Landing_Sova.git/static/media/briefcase.502ed8547379c5b80cfdc6b3423b8265.svg",
+    "static/media/mail.svg": "/Landing_Sova.git/static/media/mail.4de1723c1fc8942e0176702b5b7e86f9.svg",
+    "index.html": "/Landing_Sova.git/index.html",
+    "main.d4c99c8a.css.map": "/Landing_Sova.git/static/css/main.d4c99c8a.css.map",
+    "main.719c9f37.js.map": "/Landing_Sova.git/static/js/main.719c9f37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c99c8a.css",
+    "static/js/main.719c9f37.js"
+  ]
+}
